@@ -5,14 +5,21 @@ I'm a FullStack Developer working with Mobile and Web applications and producing
 #### My current tools 
 📲 Front-end Mobile with React Native  
 🌐 Front-end Web with React  
-📡 Back-end with Node.js  
-🛠️ Typescript 
+📡 Back-end with Node.js
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
 #### 💬 Find me elsewhere
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jancer%20Lima-5fc4e3?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jancer/)](https://www.linkedin.com/in/jancer/) 
-[![Gmail Badge](https://img.shields.io/badge/-contato.jancersl@gmail.com-5fc4e3?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.jancersl@gmail.com)](mailto:contato.jancersl@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-contato.jancersl@gmail.com-5fc4e3?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.jancersl@gmail.com)](mailto:contato.jancersl@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Jancer%20Lima-00617b?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jancer/)](https://www.linkedin.com/in/jancer/) 
+[![Gmail Badge](https://img.shields.io/badge/-contato.jancersl@gmail.com-00617b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.jancersl@gmail.com)](mailto:contato.jancersl@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/-Quebrando%20Paradigmas-ff0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/QuebrandoParadigmas)](https://www.youtube.com/c/QuebrandoParadigmas)
 <!---
 Jancera/Jancera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
