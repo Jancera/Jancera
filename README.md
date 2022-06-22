@@ -18,8 +18,8 @@ I'm a FullStack Developer working with Mobile and Web applications and producing
 #### 💬 Find me elsewhere
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jancer%20Lima-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jancer/)](https://www.linkedin.com/in/jancer/) 
-[![Gmail Badge](https://img.shields.io/badge/-contato.jancersl@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.jancersl@gmail.com)](mailto:contato.jancersl@gmail.com)
-[![Youtube Badge](https://img.shields.io/badge/-Quebrando%20Paradigmas-ff0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/QuebrandoParadigmas)](https://www.youtube.com/c/QuebrandoParadigmas)
+[![Gmail Badge](https://img.shields.io/badge/-contato.jancersl@gmail.com-0077b5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.jancersl@gmail.com)](mailto:contato.jancersl@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/-Quebrando%20Paradigmas-0077b5?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/QuebrandoParadigmas)](https://www.youtube.com/c/QuebrandoParadigmas)
 <!---
 Jancera/Jancera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
