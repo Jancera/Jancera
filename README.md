@@ -21,7 +21,9 @@ I'm a FullStack Developer working with Mobile and Web applications and producing
 [![Linkedin Badge](https://img.shields.io/badge/-Jancer%20Lima-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jancer/)](https://www.linkedin.com/in/jancer/) 
 [![Gmail Badge](https://img.shields.io/badge/-contato.jancersl@gmail.com-0077b5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.jancersl@gmail.com)](mailto:contato.jancersl@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-Quebrando%20Paradigmas-0077b5?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/QuebrandoParadigmas)](https://www.youtube.com/c/QuebrandoParadigmas)
-<br />
+
+This is my Codewarrior Profile Badge, current status:
+
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/Jancera/badges/large)
 
 <!---
