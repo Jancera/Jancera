@@ -24,7 +24,7 @@ I'm a FullStack Developer working with Mobile and Web applications and producing
 
 This is my Codewarrior Profile Badge, current status:
 
-![My Codewarrior Profile Badge](https://www.codewars.com/users/Jancera/badges/large)
+[![My Codewarrior Profile Badge](https://www.codewars.com/users/Jancera/badges/large)](https://www.codewars.com/users/Jancera)
 
 <!---
 Jancera/Jancera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
