@@ -33,7 +33,7 @@ I really enjoy working with React Native, animations, and business rules, which 
 <a href="https://github.com/Jancera">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancera&exclude_repo=elasticbeanstalk-codepipeline-application&show_icons=true&theme=dark" />
 </a>
-<br>
+<br><br>
 This is my Codewarrior Profile Badge, current status:
 
 [![My Codewarrior Profile Badge](https://www.codewars.com/users/Jancera/badges/large)](https://www.codewars.com/users/Jancera)
