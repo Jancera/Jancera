@@ -30,7 +30,7 @@ I really enjoy working with React Native, animations, and business rules, which 
 This is my Codewarrior Profile Badge, current status:
 
 [![My Codewarrior Profile Badge](https://www.codewars.com/users/Jancera/badges/large)](https://www.codewars.com/users/Jancera)
-
+<br><br>
 #### 💬 Find me elsewhere
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jancer%20Lima-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jancer/)](https://www.linkedin.com/in/jancer/) 
