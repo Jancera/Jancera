@@ -22,6 +22,9 @@ I'm a FullStack Developer working with Mobile and Web applications and producing
 [![Gmail Badge](https://img.shields.io/badge/-contato.jancersl@gmail.com-0077b5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.jancersl@gmail.com)](mailto:contato.jancersl@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-Quebrando%20Paradigmas-0077b5?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/QuebrandoParadigmas)](https://www.youtube.com/c/QuebrandoParadigmas)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jancera&exclude_repo=elasticbeanstalk-codepipeline-application)](https://github.com/anuraghazra/github-readme-stats)
+![Jancer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jancera&count_private=true)
+
 This is my Codewarrior Profile Badge, current status:
 
 [![My Codewarrior Profile Badge](https://www.codewars.com/users/Jancera/badges/large)](https://www.codewars.com/users/Jancera)
