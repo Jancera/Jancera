@@ -2,6 +2,10 @@
 
 I'm a FullStack Developer working with Mobile and Web applications and producing content at [**Quebrando Paradigmas**](https://www.youtube.com/c/QuebrandoParadigmas). 🚀
 
+Since I started programming, I've had contact with mobile and web development, and I'm increasingly impressed with the power that these platforms have to solve our day-to-day problems. This makes me more and more curious to learn more and do more and more complex things, allowing me to contribute more to everyone who works with me and everyone who consumes the educational content I produce.
+
+I really enjoy working with React Native, animations, and business rules, which makes me very good at working at various stages of development. Ah, I really enjoy discussions about infrastructure and deploy too.
+
 #### My current tools 
 📲 Front-end Mobile with React Native  
 🌐 Front-end Web with React  
@@ -24,11 +28,12 @@ I'm a FullStack Developer working with Mobile and Web applications and producing
 
 <a href="https://github.com/Jancera">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jancera&count_private=true&show_icons=true&theme=dark" />
-</a><br><br>
+</a>
+<br><br>
 <a href="https://github.com/Jancera">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancera&exclude_repo=elasticbeanstalk-codepipeline-application&show_icons=true&theme=dark" />
 </a>
-
+<br>
 This is my Codewarrior Profile Badge, current status:
 
 [![My Codewarrior Profile Badge](https://www.codewars.com/users/Jancera/badges/large)](https://www.codewars.com/users/Jancera)
