@@ -24,7 +24,7 @@ I'm a FullStack Developer working with Mobile and Web applications and producing
 
 <a href="https://github.com/Jancera">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jancera&count_private=true&show_icons=true&theme=tokyonight" />
-</a><br>
+</a><br><br>
 <a href="https://github.com/Jancera">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancera&exclude_repo=elasticbeanstalk-codepipeline-application&show_icons=true&theme=tokyonight" />
 </a>
