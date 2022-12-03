@@ -19,6 +19,8 @@ I really enjoy working with React Native, animations, and business rules, which 
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+<br><br>
+
 <a href="https://github.com/Jancera">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jancera&count_private=true&show_icons=true&theme=dark" />
 </a>
@@ -30,8 +32,6 @@ I really enjoy working with React Native, animations, and business rules, which 
 This is my Codewarrior Profile Badge, current status:
 
 [![My Codewarrior Profile Badge](https://www.codewars.com/users/Jancera/badges/large)](https://www.codewars.com/users/Jancera)
-
-<br>
 
 #### 💬 Find me elsewhere
 
