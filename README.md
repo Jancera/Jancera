@@ -21,18 +21,6 @@ I really enjoy working with React Native, animations, and business rules, which 
 
 <br>
 
-<a href="https://github.com/Jancera">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jancera&count_private=true&show_icons=true&theme=dark" />
-</a>
-<br><br>
-<a href="https://github.com/Jancera">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancera&exclude_repo=elasticbeanstalk-codepipeline-application&show_icons=true&theme=dark" />
-</a>
-<br><br>
-This is my Codewarrior Profile Badge, current status:
-
-[![My Codewarrior Profile Badge](https://www.codewars.com/users/Jancera/badges/large)](https://www.codewars.com/users/Jancera)
-
 #### 💬 Find me elsewhere
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jancer%20Lima-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jancer/)](https://www.linkedin.com/in/jancer/) 
