@@ -21,13 +21,8 @@ I write about engineering decisions and real production problems at [dev.to/janc
 
 **Contact**
 
-[![LinkedIn](https://img.shields.io/badge/-Jancer%20Lima-0077b5?
-style=flat-square&logo=Linkedin&logoColor=white&link=
-https://www.linkedin.com/in/jancer/)]
-(https://www.linkedin.com/in/jancer/)
-[![Email](https://img.shields.io/badge/-contato.jancersl@gmail.com
--0077b5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:
-contato.jancersl@gmail.com)](mailto:contato.jancersl@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Jancer%20Lima-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jancer/)](https://www.linkedin.com/in/jancer/) 
+[![Gmail Badge](https://img.shields.io/badge/-contato.jancersl@gmail.com-0077b5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.jancersl@gmail.com)](mailto:contato.jancersl@gmail.com)
 <!---
 Jancera/Jancera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
